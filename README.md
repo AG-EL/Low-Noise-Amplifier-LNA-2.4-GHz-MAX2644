@@ -144,11 +144,4 @@ Main causes:
 
 ---
 
-## 📎 Files
 
-* schematic (AWR)
-* layout (Gerber)
-* measurement results
-* thesis: 
-
----
